@@ -4,7 +4,7 @@
 ```
 
 
-## 🌱 BAB Team
+# 🌱 BAB Team
 | 조정미 | 허윤아 | 노정희 |
 | :---: | :---: | :---: |
 | <img width="200px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/101046600?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/111678149?v=4" /> |
